@@ -61,11 +61,11 @@ def send_email(receiver, subject, message):
 
 
 email_list = {
-    'sir': 'tushardid123@gmail.com',
-    'bts': 'diamond@bts.com',
-    'pink': 'jennie@blackpink.com',
-    'lisa': 'lisa@blackpink.com',
-    'irene': 'irene@redvelvet.com'
+    'tushar': 'tushardid123@gmail.com',
+    'dad': 'mkmbhu@gmail.com',
+    'sis': 'medhamishravns1997@gmail.com',
+    'self': 'cybergenius7217@gmail.com',
+    'friend': 'rajputshradha144@gmail.com'
 }
 
 
