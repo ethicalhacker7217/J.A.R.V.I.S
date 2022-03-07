@@ -65,7 +65,7 @@ email_list = {
     'dad': 'mkmbhu@gmail.com',
     'sis': 'medhamishravns1997@gmail.com',
     'self': 'cybergenius7217@gmail.com',
-    'friend': 'rajputshradha144@gmail.com'
+    'friend': 'iawesomeadi@gmail.com'
 }
 
 
